@@ -1,6 +1,7 @@
 {
-	"author": "Jane Doe",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Test descriptiong",
+	"author": "Jane Doe",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
