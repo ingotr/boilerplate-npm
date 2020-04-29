@@ -14,5 +14,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Aleksandr Markovkin"
+	"author": {
+		"name": "Aleksandr Markovkin"
+	}
 }
